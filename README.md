@@ -10,14 +10,14 @@ Psicóloga titulada 🎓
 Desarrollo Full Stack Python 💻
 Psicología - Salud Mental - Tecnología 🧠
 Siempre en constante aprendizaje 🌱
-De Chile para el mundo 
+De Chile para el mundo 🌎
 
    Tecnologías
 
 Python 🐍
 Django 🌐
 PostgreSQL 🐘
-HTML 🧱
+HTML 🧱 
 CSS 🎨
 Git y GitHub 🐙
 JavaScript 🟨
