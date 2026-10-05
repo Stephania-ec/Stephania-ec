@@ -22,7 +22,7 @@ CSS 🎨
 Git y GitHub 🐙
 JavaScript 🟨
 
-   Proyecto destacado: 'Sistema de Arriendo de Inmuebles
+   Proyecto destacado: 'Sistema de Arriendo de Inmuebles'
 
 Es una aplicación web que se desarrolló con Django y PostgreSQL, que permite gestionar inmuebles y solicitudes de arriendo.
 
