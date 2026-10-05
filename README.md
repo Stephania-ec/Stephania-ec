@@ -2,7 +2,7 @@ Hola! Mi nombre es Stephania
 
    Psicóloga 🧠 y Full Stack Python Developer en formación 💻
 
-Titulada de la Universidad de Chile, actualmente estoy ampliando mi formación y herramientas en cuanto a la tecnología y desarrollo web. Mi proposito es integrar mis conocimiento en psicología con las estas nuevas herramientas y desarrollar soluciones que contribuyan al bienestar de las personas, y de esta forma acercar la salud mental a la población.
+Titulada de la Universidad de Chile, actualmente estoy ampliando mi formación y herramientas en cuanto a la tecnología y desarrollo web. Mi proposito es integrar mis conocimiento en psicología con estas nuevas herramientas y desarrollar soluciones que contribuyan al bienestar de las personas, y de esta forma acercar la salud mental a la población.
 
    Sobre mí
 
